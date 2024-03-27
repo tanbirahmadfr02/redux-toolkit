@@ -1,0 +1,45 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  color: white;
+  margin: 0 10px;
+}
+
+.btn_main {
+  text-align: center;
+}
+
+.btn1 {
+  background: green;
+}
+.btn2 {
+  background: rgb(0, 9, 128);
+}
+.btn3 {
+  background: rgb(5, 116, 171);
+}
+.btn4 {
+  background: rgb(105, 0, 128);
+}
+
+.output {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.output input{
+  padding: 10px 20px;
+  font-size: 40px;
+}
+.output h1{
+  font-size: 90px;
+}
